@@ -15,7 +15,7 @@ if (strlen($_SESSION['id']==0)) {
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Welcome </title>
+    <title>Привет! </title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/heroic-features.css" rel="stylesheet">
 </head>
@@ -48,7 +48,7 @@ if (strlen($_SESSION['id']==0)) {
         <header class="jumbotron hero-spacer">
             <h1>Добро пожаловать!</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique quaerat nam nobis illo aspernatur vitae fugiat numquam repellat.</p>
-            <p><a  href="logout.php" class="btn btn-primary btn-large">Logout </a>
+            <p><a  href="logout.php" class="btn btn-primary btn-large">Выйти </a>
             </p>
         </header>
 
