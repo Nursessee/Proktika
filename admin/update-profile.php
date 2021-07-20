@@ -96,7 +96,6 @@ $_SESSION['msg']="Профиль успешно обновлен";
                       <div class="content-panel">
                      
                            <form class="form-horizontal style-form" name="form1" method="post" action="" onSubmit="return valid();">
-                           <p style="color:#F00"><?php echo $_SESSION['msg'];?><?php echo $_SESSION['msg']="";?></p>
                           <div class="form-group">
                               <label class="col-sm-2 col-sm-2 control-label" style="padding-left:40px;">Имя </label>
                               <div class="col-sm-10">
