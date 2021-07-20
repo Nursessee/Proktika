@@ -64,9 +64,6 @@ exit();
 	  	
 	  	</div>
 	  </div>
-    <script src="assets/js/jquery.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.backstretch.min.js"></script>
     <script>
         $.backstretch("assets/img/login-bg.jpg", {speed: 500});
     </script>
