@@ -64,8 +64,6 @@ if (strlen($_SESSION['id']==0)) {
 
 
     </div>
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.min.js"></script>
 </body>
 
 </html>

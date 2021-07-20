@@ -80,16 +80,7 @@ echo "<script>alert('Неверный email-адрес');</script>";
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="Elegent Tab Forms,Login Forms,Sign up Forms,Registration Forms,News latter Forms,Elements" . />
-    <script type="application/x-javascript">
-        addEventListener("load", function() {
-            setTimeout(hideURLbar, 0);
-        }, false);
 
-        function hideURLbar() {
-            window.scrollTo(0, 1);
-        }
-
-    </script>
     <script src="js/jquery.min.js"></script>
     <script src="js/easyResponsiveTabs.js" type="text/javascript"></script>
     <script type="text/javascript">
